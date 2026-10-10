@@ -1,0 +1,21 @@
+﻿customer_id,name,email,company,segment,phone
+C001,Ahmad Rahman,ahmad.rahman@email.com,Maybank,VIP,0123456789
+C002,Siti Nurhaliza,siti.nurhaliza@email.com,CIMB Bank,VIP,0123456790
+C003,Tan Wei Ming,tan.weiming@email.com,AXIATA Group,VIP,0123456791
+C004,Lim Chee Keong,lim.cheekeong@email.com,Sunway Group,VIP,0123456792
+C005,Nurul Aisyah,nurul.aisyah@email.com,Petronas,VIP,0123456793
+C006,Raj Kumar,raj.kumar@email.com,Maxis Bhd,Premium,0123456794
+C007,Wong Mei Ling,wong.meiling@email.com,TNB,Premium,0123456795
+C008,Mohd Faizal,mohd.faizal@email.com,Sime Darby,Premium,0123456796
+C009,Grace Tan,grace.tan@email.com,IJM Corporation,Premium,0123456797
+C010,Kavitha Krishnan,kavitha.k@email.com,Genting Malaysia,Premium,0123456798
+C011,Jason Lim,jason.lim@email.com,MIDA,Standard,0123456799
+C012,Norazlina Yusof,norazlina.y@email.com,Khazanah,Standard,0123456800
+C013,Patrick Chong,patrick.chong@email.com,Berjaya Group,Standard,0123456801
+C014,Devika Menon,devika.m@email.com,RHB Bank,Standard,0123456802
+C015,Hafiz Othman,hafiz.othman@email.com,Permodalan Nasional,Standard,0123456803
+C016,Lee Hui Fen,lee.huifen@email.com,AmBank,Standard,0123456804
+C017,Zulkifli Hassan,zulkifli.h@email.com,Tabung Haji,Standard,0123456805
+C018,Angela Yap,angela.yap@email.com,SunLife Malaysia,Standard,0123456806
+C019,Faridah Ismail,faridah.i@email.com,Prudential,Standard,0123456807
+C020,Christopher Ng,christopher.ng@email.com,AIA Malaysia,Standard,0123456808
