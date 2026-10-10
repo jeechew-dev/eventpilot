@@ -1,0 +1,21 @@
+# EventPilot MCP Server Configuration Template
+#
+# Copy this file to ~/.workbuddy-ai/mcp.json and replace:
+#   <PYTHON_PATH>  → path to your Python 3.11+ interpreter
+#   <REPO_PATH>    → absolute path to your cloned eventpilot repo
+#
+# If you used WorkBuddy's managed Python, the path is typically:
+#   macOS:   ~/.workbuddy-ai/binaries/python/envs/default/bin/python3
+#   If venv doesn't exist yet, create it first (see SETUP.md step 2)
+{
+  "mcpServers": {
+    "eventpilot": {
+      "command": "<PYTHON_PATH>",
+      "args": ["-m", "mcp_server.server"],
+      "cwd": "<REPO_PATH>",
+      "env": {
+        "PYTHONPATH": "<REPO_PATH>"
+      }
+    }
+  }
+}
