@@ -278,7 +278,7 @@ def seed_simulated_quote_emails(event_brief, quotes):
             to_email="oc@eventpilot.test",
             subject=subject,
             body=body,
-            attachments=json.dumps({"quote_data": quote}),
+            attachments={"quote_data": quote},
             thread_id=f"rfq_{venue_id}"
         )
 
